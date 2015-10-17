@@ -6,4 +6,5 @@ Creating a new branch is quick and simple
 add merge
 add merge to understand no-ff
 stash test ........
-stash test2 ========`
+stash test2 ======== gitbub edit
+
