@@ -7,3 +7,4 @@ add merge
 add merge to understand no-ff
 stash test ........
 stash test2 ========`
+hello world
