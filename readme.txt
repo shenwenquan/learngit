@@ -8,3 +8,4 @@ add merge to understand no-ff
 stash test ........
 stash test2 ========`
 hello world
+http://www.concretepage.com/spring-4/spring-4-websocket-sockjs-stomp-tomcat-example
