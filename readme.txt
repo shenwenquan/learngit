@@ -11,3 +11,5 @@ hello world
 http://www.concretepage.com/spring-4/spring-4-websocket-sockjs-stomp-tomcat-example
 http://zhaozhiming.github.io/blog/2015/05/11/spring-websocket-config/
 https://demo.rasc.ch/spring4ws/
+
+[important]http://code.qtuba.com/article-16267.html
